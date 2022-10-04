@@ -1,0 +1,1 @@
+# afy-generate-magazine-microservice
